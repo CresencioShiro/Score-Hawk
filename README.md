@@ -65,7 +65,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 # Usage:
 - git clone `https://github.com/CresencioShiro/Score-Hawk.git`
-- cd Score_Hawk
+- cd Score-Hawk
 - php rhawk.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
