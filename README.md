@@ -1,7 +1,3 @@
-<p align="center">
-	<img src="https://i.imgur.com/GNWwMFb.png" width="600px">
-</p>
-
 #### Version 1.0.6
 #### By CresencioShiro A.K.A Kris
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
